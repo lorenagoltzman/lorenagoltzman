@@ -6,14 +6,6 @@ Atualmente estou aprofundando meus conhecimentos em Java, Python, JavaScript, SQ
 
 ## Projetos em destaque
 
-### [NetPulse](https://github.com/lorenagoltzman/netpulse)
-
-Monitor de disponibilidade e latência desenvolvido em Python. Realiza verificações TCP, registra o histórico em CSV, classifica eventos e gera um painel HTML com indicadores operacionais.
-
-[Ver demonstração](https://lorenagoltzman.github.io/netpulse/)
-
-`Python` `TCP/IP` `Automação` `Monitoramento` `Testes`
-
 ### [FinControl Web](https://github.com/lorenagoltzman/fincontrol-web)
 
 Aplicação web de controle financeiro com cadastro de receitas e despesas, indicadores, filtros, meta mensal, persistência local e modelo relacional MySQL.
